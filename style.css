@@ -74,7 +74,7 @@
   right: 30px;
   top: 20px;
 }
-  @media (max-width: 868px) {
+@media (max-width: 868px) {
   body.disabled{
     overflow: hidden;
   }
@@ -190,7 +190,7 @@ position: relative;
   .flex-content{
    padding: 0 30px;
   }
-@media (max-width: 880px) {
+  @media (max-width: 880px) {
     .flex-content{
      padding: 0 30px;
      font-size: 13px;
